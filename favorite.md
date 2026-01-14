@@ -1,11 +1,11 @@
-# Food
+## Food
 Ice cream
 Lasagna
 Fries
 Burger
 Pizza
 
-# Friend
+## Friend
 Jelly
 Geoff
 Wendy
@@ -15,7 +15,7 @@ Owen
 Prian
 Ahron
 
-# Fruit
+## Fruit
 Pineapple
 Watermelon
 Pear
