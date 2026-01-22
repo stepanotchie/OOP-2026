@@ -17,12 +17,12 @@ public class Main {
         System.out.println("\nBook2: ");
         book2.printBookInfo();
 
-        Book newBook1 = new Book("The Alchemist", "Paulo Coelho", "978-006-112-241-5 ", "1988");
-        Book newBook2 = new Book("Queen of Crime", "Agatha Christie", "978-280-800-515-9", "February 7, 2018");
+        Book Book3 = new Book("The Alchemist", "Paulo Coelho", "978-006-112-241-5 ", "1988");
+        Book Book4 = new Book("Queen of Crime", "Agatha Christie", "978-280-800-515-9", "February 7, 2018");
 
         System.out.println("\nBook3: ");
-        newBook1.printBookInfo();
+        Book3.printBookInfo();
         System.out.println("\nBook4: ");
-        newBook2.printBookInfo();
+        Book4.printBookInfo();
     }
 }
